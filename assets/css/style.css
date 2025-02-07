@@ -61,12 +61,12 @@
   --eerie-black-1: #091309;
   --eerie-black-2: #091309;
   --smoky-black: #091309;
-  --white-1: hsl(0, 0%, 100%);
-  --white-2: hsl(0, 0%, 98%);
+  --white-1: #00CC33;
+  --white-2: #ffffff;
   --orange-yellow-crayola: #33FF99;
   --vegas-gold: #33FF99;
-  --light-gray: hsl(0, 0%, 84%);
-  --light-gray-70: #0D1B0C;
+  --light-gray: #d6d6d6;
+  --light-gray-70: #33FF99;
   --bittersweet-shimmer: #0D1B0C;
 
   /**
