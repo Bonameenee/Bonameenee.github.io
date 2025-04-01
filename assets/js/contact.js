@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const message = document.querySelector("[name='message']").value;
   
       // Send email using EmailJS
-      emailjs.send("service_ndsf4to", "template_q5y7rrq", {
+      emailjs.send("service_mhue0ao", "template_ra86ij7", {
         full_name: fullName,
         email: email,
         message: message,
